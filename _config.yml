@@ -1,6 +1,6 @@
 # Site wide configuration
 
-title:            Site Title
+title:            FERFERVI
 locale:           en_US
 url:
 
@@ -41,12 +41,12 @@ titlecase: true
 
 # Site owner
 owner:
-  name: Your Name
-  avatar: bio-photo.jpg
-  bio: "Describe your self."
+  name: ferfervi
+  avatar: https://pbs.twimg.com/profile_images/615633798609244160/cdgpYZAi.png
+  bio: "European, Engineer."
   email:
   disqus-shortname:
-  twitter: #username
+  twitter: ferfervi
   facebook: #username
   google:
     plus: #username
@@ -55,7 +55,7 @@ owner:
     ad-client:
     ad-slot:
   bing-verify:
-  github: #username
+  github: ferfervi
   stackoverflow: #123456/username   from a "http://stackoverflow.com/users/123456/username" link
   linkedin: #username
   xing: #username
